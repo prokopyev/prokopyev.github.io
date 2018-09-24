@@ -14,7 +14,7 @@ redirect_from:
 
 About
 ======
-I am a data scientist specializing in natural language processing. I use machine learning for prediction and statistics for causal inference. Currently work in development economics, also have rich experience in consumer technology and online startups. My public relations and communications experience helps in advising clients of all data literacy levels. Fluent in English, Spanish, and Russian.
+I am a data scientist specializing in natural language processing. I use machine learning for prediction and statistics for causal inference. Currently work in development economics, also have rich experience in consumer technology and online startups. My public relations and communications experience helps in advising clients of all data literacy levels. Fluent in Spanish and Russian.
 
 Part of the Big Data team at The World Bank.
 
