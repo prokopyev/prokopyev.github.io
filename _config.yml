@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alpen Data ☕️🏔"
+title                    : "ALPEN DATA"
 title_separator          : "-"
 name                     : &name "Anton Prokopyev"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Anton Prokopyev"
   avatar           : "bio-photo-3.jpg"
-  bio              : "Data Scientist. Previousty seen at Apple, Airbnb, YC, UC San Diego."
+  bio              : "Data Scientist. Previously seen at Apple, Airbnb, YC, UC San Diego."
   location         : "Washington, D.C."
   employer         :
   googlescholar    :

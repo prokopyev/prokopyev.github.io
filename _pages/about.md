@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-+ 02-03 April, 2019. Las Vegas, NV. [X-Tech 2019](https://www.cefpro.com/forthcoming-events/x-tech-agenda/). Demystifying AI and Machine Learning: An Introduction
++ 02-03 April, 2019. Las Vegas, NV. [X-Tech 2019](https://www.cefpro.com/forthcoming-events/x-tech-agenda/). Demystifying AI and Machine Learning
 + 25-26 October 2018. Toronto, Canada. [AI for Government Summit 2018](https://www.re-work.co/events/ai-for-government-summit-canada-2018) 
 + 17-18 September 2018. Minneapolis, MN. [Community Indicators Impact Summit 2018](https://2018impactsummit.sched.com/). Using Machine Learning to Aalyze Barriers to Trade 
 + 06-07 September 2018. New York, NY. [AI in Finance Summit 2018](https://www.re-work.co/events/ai-in-finance-summit-new-york-2018/schedule#day_2). Applying AI to International Trade: Machine Learning For Identifying Non-Tariff Measures in Text
