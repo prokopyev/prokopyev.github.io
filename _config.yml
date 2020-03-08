@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anton's Data"
+title                    : "ANTON'S DATA"
 title_separator          : "-"
 name                     : &name "Anton Prokopyev"
 description              : &description "personal description"
